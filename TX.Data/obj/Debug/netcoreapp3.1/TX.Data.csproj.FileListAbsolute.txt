@@ -1,0 +1,13 @@
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.Data\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.Data\bin\Debug\netcoreapp3.1\TX.Data.deps.json
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.Data\bin\Debug\netcoreapp3.1\TX.Data.runtimeconfig.json
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.Data\bin\Debug\netcoreapp3.1\TX.Data.runtimeconfig.dev.json
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.Data\bin\Debug\netcoreapp3.1\TX.Data.dll
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.Data\bin\Debug\netcoreapp3.1\TX.Data.pdb
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.Data\obj\Debug\netcoreapp3.1\TX.Data.AssemblyInfoInputs.cache
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.Data\obj\Debug\netcoreapp3.1\TX.Data.AssemblyInfo.cs
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.Data\obj\Debug\netcoreapp3.1\TX.Data.csproj.CoreCompileInputs.cache
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.Data\obj\Debug\netcoreapp3.1\TX.Data.dll
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.Data\obj\Debug\netcoreapp3.1\TX.Data.pdb
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.Data\obj\Debug\netcoreapp3.1\TX.Data.genruntimeconfig.cache
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.Data\obj\Debug\netcoreapp3.1\TX.Data.csproj.AssemblyReference.cache

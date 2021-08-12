@@ -1,0 +1,8 @@
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.ApiIntegration\bin\Debug\netcoreapp3.1\TX.ApiIntegration.deps.json
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.ApiIntegration\bin\Debug\netcoreapp3.1\TX.ApiIntegration.dll
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.ApiIntegration\bin\Debug\netcoreapp3.1\TX.ApiIntegration.pdb
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.ApiIntegration\obj\Debug\netcoreapp3.1\TX.ApiIntegration.AssemblyInfoInputs.cache
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.ApiIntegration\obj\Debug\netcoreapp3.1\TX.ApiIntegration.AssemblyInfo.cs
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.ApiIntegration\obj\Debug\netcoreapp3.1\TX.ApiIntegration.csproj.CoreCompileInputs.cache
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.ApiIntegration\obj\Debug\netcoreapp3.1\TX.ApiIntegration.dll
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.ApiIntegration\obj\Debug\netcoreapp3.1\TX.ApiIntegration.pdb

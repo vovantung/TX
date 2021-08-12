@@ -1,0 +1,13 @@
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.ViewModels\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.ViewModels\bin\Debug\netcoreapp3.1\TX.ViewModels.deps.json
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.ViewModels\bin\Debug\netcoreapp3.1\TX.ViewModels.dll
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.ViewModels\bin\Debug\netcoreapp3.1\TX.ViewModels.pdb
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.ViewModels\bin\Debug\netcoreapp3.1\TX.Data.dll
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.ViewModels\bin\Debug\netcoreapp3.1\TX.Data.pdb
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.ViewModels\obj\Debug\netcoreapp3.1\TX.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.ViewModels\obj\Debug\netcoreapp3.1\TX.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.ViewModels\obj\Debug\netcoreapp3.1\TX.ViewModels.AssemblyInfo.cs
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.ViewModels\obj\Debug\netcoreapp3.1\TX.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.ViewModels\obj\Debug\netcoreapp3.1\TX.ViewModels.csproj.CopyComplete
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.ViewModels\obj\Debug\netcoreapp3.1\TX.ViewModels.dll
+C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.ViewModels\obj\Debug\netcoreapp3.1\TX.ViewModels.pdb
