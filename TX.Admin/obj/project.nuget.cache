@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H8fEKVgOIEO143YFbDWXC70G4AFTfvnofCycomQ3Pwnr4gsXCpiRLLzKe4U0LOvYpeImR+dgnfvIPW5ikYhnFA==",
+  "dgSpecHash": "zEViw7ffaZMPxWpvtYhd4xy59u2vN5OUeNxB8FaVGT88X0UFcIkTXDunyJd8GpfYYTfWufJuchy5mhJFSIyrlg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vo Van Tung\\Desktop\\TUNGXUYEN\\TX\\TX.Admin\\TX.Admin.csproj",
+  "projectFilePath": "C:\\Users\\Vo Van Tung\\Desktop\\GIT\\TX\\TX\\TX.Admin\\TX.Admin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vo Van Tung\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512",
     "C:\\Users\\Vo Van Tung\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.0\\fluentvalidation.aspnetcore.10.3.0.nupkg.sha512",

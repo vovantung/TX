@@ -5293,11 +5293,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vo Van Tung\\Desktop\\TUNGXUYEN\\TX\\TX.ViewModels\\TX.ViewModels.csproj",
+      "projectUniqueName": "C:\\Users\\Vo Van Tung\\Desktop\\GIT\\TX\\TX\\TX.ViewModels\\TX.ViewModels.csproj",
       "projectName": "TX.ViewModels",
-      "projectPath": "C:\\Users\\Vo Van Tung\\Desktop\\TUNGXUYEN\\TX\\TX.ViewModels\\TX.ViewModels.csproj",
+      "projectPath": "C:\\Users\\Vo Van Tung\\Desktop\\GIT\\TX\\TX\\TX.ViewModels\\TX.ViewModels.csproj",
       "packagesPath": "C:\\Users\\Vo Van Tung\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vo Van Tung\\Desktop\\TUNGXUYEN\\TX\\TX.ViewModels\\obj\\",
+      "outputPath": "C:\\Users\\Vo Van Tung\\Desktop\\GIT\\TX\\TX\\TX.ViewModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5321,8 +5321,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Vo Van Tung\\Desktop\\TUNGXUYEN\\TX\\TX.Data\\TX.Data.csproj": {
-              "projectPath": "C:\\Users\\Vo Van Tung\\Desktop\\TUNGXUYEN\\TX\\TX.Data\\TX.Data.csproj"
+            "C:\\Users\\Vo Van Tung\\Desktop\\GIT\\TX\\TX\\TX.Data\\TX.Data.csproj": {
+              "projectPath": "C:\\Users\\Vo Van Tung\\Desktop\\GIT\\TX\\TX\\TX.Data\\TX.Data.csproj"
             }
           }
         }

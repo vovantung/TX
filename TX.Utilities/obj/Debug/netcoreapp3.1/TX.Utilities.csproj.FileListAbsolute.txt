@@ -7,3 +7,11 @@ C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.Utilities\obj\Debug\netcoreapp3.1\T
 C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.Utilities\obj\Debug\netcoreapp3.1\TX.Utilities.dll
 C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.Utilities\obj\Debug\netcoreapp3.1\TX.Utilities.pdb
 C:\Users\Vo Van Tung\Desktop\TUNGXUYEN\TX\TX.Utilities\obj\Debug\netcoreapp3.1\TX.Utilities.csproj.AssemblyReference.cache
+C:\Users\Vo Van Tung\Desktop\GIT\TX\TX\TX.Utilities\bin\Debug\netcoreapp3.1\TX.Utilities.deps.json
+C:\Users\Vo Van Tung\Desktop\GIT\TX\TX\TX.Utilities\bin\Debug\netcoreapp3.1\TX.Utilities.dll
+C:\Users\Vo Van Tung\Desktop\GIT\TX\TX\TX.Utilities\bin\Debug\netcoreapp3.1\TX.Utilities.pdb
+C:\Users\Vo Van Tung\Desktop\GIT\TX\TX\TX.Utilities\obj\Debug\netcoreapp3.1\TX.Utilities.AssemblyInfoInputs.cache
+C:\Users\Vo Van Tung\Desktop\GIT\TX\TX\TX.Utilities\obj\Debug\netcoreapp3.1\TX.Utilities.AssemblyInfo.cs
+C:\Users\Vo Van Tung\Desktop\GIT\TX\TX\TX.Utilities\obj\Debug\netcoreapp3.1\TX.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Vo Van Tung\Desktop\GIT\TX\TX\TX.Utilities\obj\Debug\netcoreapp3.1\TX.Utilities.dll
+C:\Users\Vo Van Tung\Desktop\GIT\TX\TX\TX.Utilities\obj\Debug\netcoreapp3.1\TX.Utilities.pdb

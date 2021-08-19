@@ -9050,11 +9050,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vo Van Tung\\Desktop\\TUNGXUYEN\\TX\\TX.Api\\TX.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Vo Van Tung\\Desktop\\GIT\\TX\\TX\\TX.Api\\TX.Api.csproj",
       "projectName": "TX.Api",
-      "projectPath": "C:\\Users\\Vo Van Tung\\Desktop\\TUNGXUYEN\\TX\\TX.Api\\TX.Api.csproj",
+      "projectPath": "C:\\Users\\Vo Van Tung\\Desktop\\GIT\\TX\\TX\\TX.Api\\TX.Api.csproj",
       "packagesPath": "C:\\Users\\Vo Van Tung\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vo Van Tung\\Desktop\\TUNGXUYEN\\TX\\TX.Api\\obj\\",
+      "outputPath": "C:\\Users\\Vo Van Tung\\Desktop\\GIT\\TX\\TX\\TX.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -9078,14 +9078,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Vo Van Tung\\Desktop\\TUNGXUYEN\\TX\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\Vo Van Tung\\Desktop\\TUNGXUYEN\\TX\\Services\\Services.csproj"
+            "C:\\Users\\Vo Van Tung\\Desktop\\GIT\\TX\\TX\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\Vo Van Tung\\Desktop\\GIT\\TX\\TX\\Services\\Services.csproj"
             },
-            "C:\\Users\\Vo Van Tung\\Desktop\\TUNGXUYEN\\TX\\TX.Data\\TX.Data.csproj": {
-              "projectPath": "C:\\Users\\Vo Van Tung\\Desktop\\TUNGXUYEN\\TX\\TX.Data\\TX.Data.csproj"
+            "C:\\Users\\Vo Van Tung\\Desktop\\GIT\\TX\\TX\\TX.Data\\TX.Data.csproj": {
+              "projectPath": "C:\\Users\\Vo Van Tung\\Desktop\\GIT\\TX\\TX\\TX.Data\\TX.Data.csproj"
             },
-            "C:\\Users\\Vo Van Tung\\Desktop\\TUNGXUYEN\\TX\\TX.Utilities\\TX.Utilities.csproj": {
-              "projectPath": "C:\\Users\\Vo Van Tung\\Desktop\\TUNGXUYEN\\TX\\TX.Utilities\\TX.Utilities.csproj"
+            "C:\\Users\\Vo Van Tung\\Desktop\\GIT\\TX\\TX\\TX.Utilities\\TX.Utilities.csproj": {
+              "projectPath": "C:\\Users\\Vo Van Tung\\Desktop\\GIT\\TX\\TX\\TX.Utilities\\TX.Utilities.csproj"
             }
           }
         }

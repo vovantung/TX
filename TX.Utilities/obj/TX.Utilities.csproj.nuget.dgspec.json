@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vo Van Tung\\Desktop\\TUNGXUYEN\\TX\\TX.Utilities\\TX.Utilities.csproj": {}
+    "C:\\Users\\Vo Van Tung\\Desktop\\GIT\\TX\\TX\\TX.Utilities\\TX.Utilities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vo Van Tung\\Desktop\\TUNGXUYEN\\TX\\TX.Utilities\\TX.Utilities.csproj": {
+    "C:\\Users\\Vo Van Tung\\Desktop\\GIT\\TX\\TX\\TX.Utilities\\TX.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vo Van Tung\\Desktop\\TUNGXUYEN\\TX\\TX.Utilities\\TX.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\Vo Van Tung\\Desktop\\GIT\\TX\\TX\\TX.Utilities\\TX.Utilities.csproj",
         "projectName": "TX.Utilities",
-        "projectPath": "C:\\Users\\Vo Van Tung\\Desktop\\TUNGXUYEN\\TX\\TX.Utilities\\TX.Utilities.csproj",
+        "projectPath": "C:\\Users\\Vo Van Tung\\Desktop\\GIT\\TX\\TX\\TX.Utilities\\TX.Utilities.csproj",
         "packagesPath": "C:\\Users\\Vo Van Tung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vo Van Tung\\Desktop\\TUNGXUYEN\\TX\\TX.Utilities\\obj\\",
+        "outputPath": "C:\\Users\\Vo Van Tung\\Desktop\\GIT\\TX\\TX\\TX.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

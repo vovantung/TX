@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U0N5VQxsrrxCNQPNIhMpDpn5VMtRFFYpBHfQ33SDR962bYx4l143JOgw+seAyV0Horqe/v/jyfve8+LS84azrQ==",
+  "dgSpecHash": "nw/ekhnvFkCEqpRxRLcfuBXJ1ekDbRi/KrJV9dsTqn4snOvDraLnhDaeekrM4xGRDvrBhtRO3zFIRNZTOJY9FQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vo Van Tung\\Desktop\\TUNGXUYEN\\TX\\TX.ViewModels\\TX.ViewModels.csproj",
+  "projectFilePath": "C:\\Users\\Vo Van Tung\\Desktop\\GIT\\TX\\TX\\TX.ViewModels\\TX.ViewModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vo Van Tung\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512",
     "C:\\Users\\Vo Van Tung\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.1\\microsoft.aspnetcore.cryptography.internal.3.1.1.nupkg.sha512",
